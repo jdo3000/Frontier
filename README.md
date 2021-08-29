@@ -5,3 +5,9 @@ Data management and user authentification built with Firebase.
 Front-end built with React and Bootstrap.
 
 ## Screenshots
+![homepage]('screenshots/homePage')
+![card]('screenshots/card')
+![userpage]('screenshots/userPage')
+![editpage]('screenshots/editPage')
+![sharepage]('screenshots/sharePage')
+![signinpage]('screenshots/signinPage)
