@@ -1,0 +1,46 @@
+.userInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items:center;
+    padding: 50px 100px;
+    height: 500px;
+}
+
+.userImage {
+    display: table;
+    margin: 0 auto;
+    width: 230px;
+    height: 230px;
+    background-color: lightblue;
+    align-self: flex-start;
+    
+}
+
+.img {
+    /* display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; */
+}
+
+.btn {
+    width: 120px;
+    margin: 0 20px;
+    padding: 0;
+    border: 0;
+    background-color: white;
+    color: #7e7e7e;
+}
+
+:hover {
+    color: black;
+}
+
+.username {
+    font-size: 25px;
+}
+
+.content {
+    padding-bottom: 100px;
+}

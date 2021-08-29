@@ -1,0 +1,7 @@
+.imageInput {
+    height: 100px;
+    border: 1px solid lightgrey;
+    text-align: center;
+    margin-bottom: 25px;
+    border-radius: 5px;
+}
