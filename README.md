@@ -4,6 +4,10 @@
 * Data management and user authentification built with Firebase.
 * Front-end built with React and Bootstrap.
 
+## gifs
+![gif 1](/gifs/gif1.gif)
+![gif 2](/gifs/gif2.gif)
+
 ## Screenshots
 ![homepage](/screenshots/homePage.png)
 ![card](/screenshots/card.png)
